@@ -1,5 +1,7 @@
 ![Gutenberg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Printer_in_1568-ce.png/220px-Printer_in_1568-ce.png)
 
+[![Documentation Status](https://readthedocs.org/projects/gutenberg/badge/?version=latest)](http://gutenberg.readthedocs.org/en/latest/?badge=latest)
+
 ### Live Build
 Live builds and automatic browser reloads similar to `jekyll serve`:
 
